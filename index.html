@@ -1,2 +1,18 @@
-<h1>Hi</h1>
-<p>Bye!</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hi</title>
+  <script>
+    function redirectAfterDelay() {
+      setTimeout(function() {
+        window.location.href = "releasenotes.html";
+      }, 5000);
+    }
+  </script>
+</head>
+<body onload="redirectAfterDelay()">
+  <p>Not much to see here...</p>
+</body>
+</html>

@@ -6,11 +6,11 @@
     <description>Appcast for Syncrone app updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.0.2</title>
+      <title>Version 0.1.0</title>
       <sparkle:releaseNotesLink>https://ahc-dev.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink>
-      <pubDate>Wed, 16 Oct 2024 18:11:12 -0700</pubDate>
+      <pubDate>Wed, 08 Nov 2024 11:34:12 -0700</pubDate>
       <enclosure url="https://ahc-dev.github.io/syncrone_xml_public/Syncrone-E-Installer-Downloader.exe"
-                 sparkle:version="0.0.1"
+                 sparkle:version="0.1.0"
                  type="application/octet-stream"/>
     </item>
   </channel>

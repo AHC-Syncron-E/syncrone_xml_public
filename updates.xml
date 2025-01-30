@@ -6,7 +6,7 @@
     <description>Appcast for Syncron-E app updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.2.0</title>
+      <title>Version 0.2.1</title>
       <sparkle:releaseNotesLink>https://ahc-dev.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink>
       <pubDate>Wed, 11 Dec 2024 15:06:00 -0700</pubDate>
       <enclosure url="https://ahc-dev.github.io/syncrone_xml_public/Syncron-E-Installer-Downloader.exe"

@@ -9,7 +9,7 @@
       <title>Version 0.5.0</title>
       <sparkle:releaseNotesLink>https://ahc-syncron-e.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink>
       <pubDate>Tues, 20 May 2025 15:06:00 -0700</pubDate>
-      <enclosure url="https://ahc-dev.github.io/syncrone_xml_public/Syncron-E-Installer-Downloader.exe"
+      <enclosure url="https://ahc-syncron-e.github.iosyncrone_xml_public/Syncron-E-Installer-Downloader.exe"
                  sparkle:version="0.5.0"
                  type="application/octet-stream"/>
     </item>

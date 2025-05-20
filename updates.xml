@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
     <title>Syncron-E Update</title>
-    <link>https://ahc-dev.github.io/syncrone_xml_public/updates.xml</link>
+    <link>https://ahc-syncron-e.github.io/syncrone_xml_public/updates.xml</link>
     <description>Appcast for Syncron-E app updates.</description>
     <language>en</language>
     <item>
-      <title>Version 0.2.0</title>
-      <sparkle:releaseNotesLink>https://ahc-dev.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink>
-      <pubDate>Wed, 11 Dec 2024 15:06:00 -0700</pubDate>
+      <title>Version 0.5.0</title>
+      <sparkle:releaseNotesLink>https://ahc-syncron-e.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink>
+      <pubDate>Tues, 20 May 2025 15:06:00 -0700</pubDate>
       <enclosure url="https://ahc-dev.github.io/syncrone_xml_public/Syncron-E-Installer-Downloader.exe"
-                 sparkle:version="0.2.0"
+                 sparkle:version="0.5.0"
                  type="application/octet-stream"/>
     </item>
   </channel>

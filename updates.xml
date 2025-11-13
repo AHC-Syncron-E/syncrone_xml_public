@@ -11,6 +11,9 @@
       <pubDate>Tues, 20 May 2025 15:06:00 -0700</pubDate>
       <enclosure url="https://ahc-syncron-e.github.io/syncrone_xml_public/Syncron-E-Installer-Downloader.exe"
                  sparkle:version="0.5.0"
+                 sparkle:os="windows-x64"
+                 sparkle:edSignature="r4jAf4HmqTSBoI+KrCxSGGNIrWKDJxYe4RHb0l90ZZbGscxB7C0een3BZiL62dBtssV6msYayTYluudjmGBtBQ=="
+                 length="48406032"
                  type="application/octet-stream"/>
     </item>
   </channel>

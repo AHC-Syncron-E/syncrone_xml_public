@@ -1,15 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
-    <item><title>Version 0.5.1</title><pubDate>Thu, 13 Nov 2025 18:36:40 +0000</pubDate><enclosure url="https://ahc-syncron-e.github.io/syncrone_xml_public/Syncron-E-Installer-Downloader.exe" sparkle:version="0.5.1" sparkle:os="windows-x64" sparkle:edSignature="pgrjDr72v0PHfGZNi22wFMSYFohCCr81M5JFXKN/Rp09WxzJ0EVOTInMWJaSL8Ni0e9ONYluVIW4bTUPW5RyAg==" length="46233760" type="application/octet-stream" /></item><title>Syncron-E Update</title>
+    <title>Syncron-E Update</title>
     <link>https://ahc-syncron-e.github.io/syncrone_xml_public/updates.xml</link>
     <description>Appcast for Syncron-E app updates.</description>
     <language>en</language>
-    <item>
-      <title>Version 0.5.0</title>
-      <sparkle:releaseNotesLink>https://ahc-syncron-e.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink>
-      <pubDate>Tues, 20 May 2025 15:06:00 -0700</pubDate>
-      <enclosure url="https://ahc-syncron-e.github.io/syncrone_xml_public/Syncron-E-Installer-Downloader.exe" sparkle:version="0.5.0" sparkle:os="windows-x64" sparkle:edSignature="r4jAf4HmqTSBoI+KrCxSGGNIrWKDJxYe4RHb0l90ZZbGscxB7C0een3BZiL62dBtssV6msYayTYluudjmGBtBQ==" length="48406032" type="application/octet-stream" />
-    </item>
-  </channel>
+    <item><title>Version 0.5.1</title><pubDate>Thu, 13 Nov 2025 21:50:35 +0000</pubDate><sparkle:releaseNotesLink>https://ahc-syncron-e.github.io/syncrone_xml_public/releasenotes.html</sparkle:releaseNotesLink><enclosure url="https://syncron-e-installers-ahc.s3.us-west-1.amazonaws.com/Syncron-E-Installer-Downloader.exe" sparkle:version="0.5.1" sparkle:os="windows-x64" sparkle:edSignature="blLmzKiTJUDV1hQBLN6lxya7MKvlFehlD/6eByd5HMHQpb45vAOmUiXM0C5jytprOPdYwf6loxoV6cwVY7a3Ag==" length="46233440" type="application/octet-stream" /></item></channel>
 </rss>
